@@ -2,6 +2,14 @@
 
 I earned my Master's degree in Data Science ([MIDS](https://datascience.duke.edu/people/graduation-year/2024/#:~:text=Class%20of%202024-,Dingkun%20Yang,-Class%20of%202024)) from Duke University in May 2024, backed by a strong foundation in Statistics and Economics ([Honors Program](https://poole.ncsu.edu/news/2017/04/12/outstanding-economics-students-honored/#:~:text=Zachary%20Lee%20Small-,Dingkun%20Yang,-Inductees%20into%20Omicron)) earned at NC State University. Follow along with my GitHub repository to stay up-to-date with my latest projects and contributions!
 
+## Personal Websites
+
+- [Personal Hub](https://yer1k.com/)
+
+- [About Me](https://about.yer1k.com/)
+
+- [My Running Page](https://running.yer1k.com/)
+
 
 ## Project Highlights
 
