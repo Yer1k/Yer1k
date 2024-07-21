@@ -1,6 +1,6 @@
 ## Hi there , I'm Dingkun Yang 👋 [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">](https://www.linkedin.com/in/dyang7/) [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://yer1k.com/)
 
-I earned my Master's degree in Data Science ([MIDS](https://datascience.duke.edu/people/graduation-year/2024/#:~:text=Class%20of%202024-,Dingkun%20Yang,-Class%20of%202024)) from Duke University i in May 2024, backed by a strong foundation in Statistics and Economics ([Honors Program](https://poole.ncsu.edu/news/2017/04/12/outstanding-economics-students-honored/#:~:text=Zachary%20Lee%20Small-,Dingkun%20Yang,-Inductees%20into%20Omicron)) earned at NC State University. Follow along with my GitHub repository to stay up-to-date with my latest projects and contributions!
+I earned my Master's degree in Data Science ([MIDS](https://datascience.duke.edu/people/graduation-year/2024/#:~:text=Class%20of%202024-,Dingkun%20Yang,-Class%20of%202024)) from Duke University in May 2024, backed by a strong foundation in Statistics and Economics ([Honors Program](https://poole.ncsu.edu/news/2017/04/12/outstanding-economics-students-honored/#:~:text=Zachary%20Lee%20Small-,Dingkun%20Yang,-Inductees%20into%20Omicron)) earned at NC State University. Follow along with my GitHub repository to stay up-to-date with my latest projects and contributions!
 
 
 ## Project Highlights
