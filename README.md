@@ -13,6 +13,25 @@ I graduated from Duke University with a master's degree in Data Science (MIDS) i
 
 - [🛒 Shopee-Price Match Guarantee: Match products with descriptions and images](https://github.com/Yer1k/Shopee-Product-Price-Match-Guarantee)
 
+### SQL & Python
+
+- [⚕️ EHR Data Analysis Tools](https://github.com/Yer1k/EHR_Utils)
+
+- [⚽ SQL Database: My Soccer Refereeing Journey](https://github.com/Yer1k/SQL_Refereeing_Database)
+
+- [🎶 Song Recommendation System](https://github.com/Yer1k/Song_Recommender)
+
+- [🌐 LLM/NLP: Sentiment Analysis on IMDb data with Naive Bayes and BERT Models](https://github.com/Yer1k/Sentiment-Analysis-with-BERT-Naive-Bayes)
+
+- [💲 Automation: Cryptocurrency Data Platform & AI Trading Algorithm](https://github.com/Yer1k/AI_Trading)
+
+### Microservices & Command-line Tools
+
+- [💬 Streamlit Hugging Face: Question Answering Tool](https://github.com/Yer1k/Streamlit-Hugging-Face)
+
+- [📜 Ancient Chinese Poem Line Generator](https://github.com/Yer1k/CD_FastAPI_AWS)
+
+- [⌘ Bash Command-line Tool to Clean and Truncate Data](https://github.com/Yer1k/Bash-command-line-tool-to-clean-and-truncate-data)
 
 ## Tech Stack
 
@@ -56,7 +75,7 @@ My GitHub info:
 
 <img src="https://github-readme-stats.vercel.app/api?username=yer1k&count_private=true&show_icons=true&theme=tokyonight" alt="info" width="370"/>
 
-
+[![Profile View](https://visitcount.itsvg.in/api?id=yer1k&label=Profile%20Views&color=1&icon=5&pretty=true)](https://yer1k.com/)
 <!--
 **Yer1k/Yer1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
