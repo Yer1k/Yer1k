@@ -25,6 +25,20 @@ I earned my Master's degree in Data Science ([MIDS](https://datascience.duke.edu
 
 - [💲 Automation: Cryptocurrency Data Platform & AI Trading Algorithm](https://github.com/Yer1k/AI_Trading)
 
+### Cloud & Rust
+
+- [λ Rust Lambda Function to Process Input Data and Return Output Data](https://gitlab.com/Yer1k/cargo_lambda)
+
+- [⛁ AWS Rust Lamdba function with DynamoDB](https://gitlab.com/Yer1k/aws_lambda_database)
+
+- [🪣 TypeScript with AWS CDK and S3 bucket](https://gitlab.com/Yer1k/aws_cdk)
+
+- [⛏️ Rust Actix Web Service](https://gitlab.com/Yer1k/rust_actix_web)
+
+- [🗄️ Rust LLM AWS Lambda](https://gitlab.com/Yer1k/rust-llm-aws-lambda)
+
+- [🤖 Rust LLM Kubernetes](https://gitlab.com/Yer1k/rust-llm-kubernetes)
+
 ### Microservices & Command-line Tools
 
 - [💬 Streamlit Hugging Face: Question Answering Tool](https://github.com/Yer1k/Streamlit-Hugging-Face)
