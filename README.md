@@ -23,11 +23,15 @@ I earned my Master's degree in Data Science ([MIDS](https://datascience.duke.edu
 
 ### SQL & Python
 
-- [⚕️ EHR Data Analysis Tools](https://github.com/Yer1k/EHR_Utils)
+- [💊 Causal Inference: Effect of Policy Actions on Opioid Prescriptions and Overdose Fatalities](https://github.com/Yer1k/opioid_causal_inference)
+
+- [📊 Statistical Modeling: Analysis of Global Life Expectancy and Related Factors](https://github.com/Yer1k/Global-Life-Expectancy-and-Related-Factors)
+
+- [⚕️ SQL & Python: EHR Data Analysis Tools](https://github.com/Yer1k/EHR_Utils)
 
 - [⚽ SQL Database: My Soccer Refereeing Journey](https://github.com/Yer1k/SQL_Refereeing_Database)
 
-- [🎶 Song Recommendation System](https://github.com/Yer1k/Song_Recommender)
+- [🎶 Python Script: Song Recommendation System](https://github.com/Yer1k/Song_Recommender)
 
 - [🌐 LLM/NLP: Sentiment Analysis on IMDb data with Naive Bayes and BERT Models](https://github.com/Yer1k/Sentiment-Analysis-with-BERT-Naive-Bayes)
 
