@@ -37,6 +37,10 @@ I earned my Master's degree in Data Science ([MIDS](https://datascience.duke.edu
 
 - [💲 Automation: Cryptocurrency Data Platform & AI Trading Algorithm](https://github.com/Yer1k/AI_Trading)
 
+### Data Engineering
+
+- [🔠 Flask: Translator App Flask via Azure AI](https://github.com/Yer1k/web_flask)
+
 ### Cloud & Rust
 
 - [λ Rust Lambda Function to Process Input Data and Return Output Data](https://gitlab.com/Yer1k/cargo_lambda)
