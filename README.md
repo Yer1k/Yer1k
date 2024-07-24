@@ -101,12 +101,15 @@ I earned my Master's degree in Data Science ([MIDS](https://datascience.duke.edu
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black)
 
+
+[![Profile View](https://visitcount.itsvg.in/api?id=yer1k&label=Profile%20Views&color=1&icon=5&pretty=true)](https://yer1k.com/)
+
+<!--
 My GitHub info:
 
 <img src="https://github-readme-stats.vercel.app/api?username=yer1k&count_private=true&show_icons=true&theme=tokyonight" alt="info" width="370"/>
 
-[![Profile View](https://visitcount.itsvg.in/api?id=yer1k&label=Profile%20Views&color=1&icon=5&pretty=true)](https://yer1k.com/)
-<!--
+
 **Yer1k/Yer1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
