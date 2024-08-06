@@ -104,6 +104,8 @@ I earned my Master's degree in Data Science ([MIDS](https://datascience.duke.edu
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black)
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yer1k&show_icons=true&locale=en&layout=compact" alt="Yer1k" /></p>
+
 [![Profile View](https://visitcount.itsvg.in/api?id=yer1k&label=Profile%20Views&color=1&icon=5&pretty=true)](https://yer1k.com/)
 
 <!--
