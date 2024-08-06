@@ -39,6 +39,8 @@ I earned my Master's degree in Data Science ([MIDS](https://datascience.duke.edu
 
 ### Data Engineering
 
+- [🔧 End-to-End Data Pipeline: Airflow, Docker, Database, Bucket, Spark, DuckDB, Plotly](https://github.com/Yer1k/data_pipeline)
+
 - [🔠 Flask: Translator App Flask via Azure AI](https://github.com/Yer1k/web_flask)
 
 ### Cloud & Rust
