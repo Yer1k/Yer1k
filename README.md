@@ -31,6 +31,8 @@ I earned my Master's degree in Data Science ([MIDS](https://datascience.duke.edu
 
 - [⚽ SQL Database: My Soccer Refereeing Journey](https://github.com/Yer1k/SQL_Refereeing_Database)
 
+- [🎯 Python Practice: A collection of Python scripts for practice](https://github.com/Yer1k/python_practice)
+
 - [🎶 Python Script: Song Recommendation System](https://github.com/Yer1k/Song_Recommender)
 
 - [🌐 LLM/NLP: Sentiment Analysis on IMDb data with Naive Bayes and BERT Models](https://github.com/Yer1k/Sentiment-Analysis-with-BERT-Naive-Bayes)
